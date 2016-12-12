@@ -1,4 +1,4 @@
-# Apricity theme installer ==
+# Apricity theme installer
 A simple install script to get the gnome tweaks of Apricity OS in other 
 linux distributions
 
